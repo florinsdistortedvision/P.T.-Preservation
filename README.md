@@ -14,3 +14,4 @@ Released for the PlayStation 4 on August 12, 2014 as a free download on the Play
 * CUSA01114 = EU, CUSA01127 = US
 * [CUSA01114 = EU retail pkg link](https://anonfiles.com/m0edj948z7/EP4511_CUSA01114_00_PPPPPPPPTTTTTTTT_zip)
 * [CUSA01127 = US retail pkg link](https://anonfiles.com/o7f3j148z7/UP4511_CUSA01127_00_PPPPPPPPTTTTTTTT_zip)
+* In image assets folder, i've also provided the original icon, background and loading image used by the game.
